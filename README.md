@@ -1,7 +1,8 @@
 # ![162250849-0c58623e-32c0-45d0-9869-568e4b2ca0fe](https://user-images.githubusercontent.com/96433729/167252697-f9be864b-bf6e-4fa4-b21b-a52744ec6e43.png)
 
 **Patch modding support into JesusAI**
-**Created by ritz ([@enfier](https://github.com/enfier)) & smea ([@fruitypaw](https://github.com/fruitypaw)**
+
+**Created by ritz ([@enfier](https://github.com/enfier)) & smea ([@fruitypaw](https://github.com/fruitypaw))**
 
 ## FAQ
 ### What is 3DNUS?
